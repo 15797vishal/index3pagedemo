@@ -1,0 +1,24 @@
+*{
+
+    background-color: aqua;
+    padding: 0;
+    margin: 0;
+}
+.navbar{
+    background-color: azure;
+    display: flex;
+    /* border-radius: 123px; */
+}
+.navbar main ul home{
+ 
+    display: flex;
+    border: 100px;
+    border-radius: 102px;
+}
+.home{
+    display: flex;
+    background-color: aliceblue;
+}
+.foot{
+    border-bottom: 100px;
+}
